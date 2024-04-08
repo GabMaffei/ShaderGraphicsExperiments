@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fogo
+  m_Name: FogoMaterial
   m_Shader: {fileID: -6465566751694194690, guid: c4a7666864a603d439b17c01bde4b390,
     type: 3}
   m_Parent: {fileID: 0}
@@ -110,6 +110,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _Distor_o: 0.07
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
